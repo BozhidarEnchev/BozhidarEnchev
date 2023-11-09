@@ -7,8 +7,10 @@ I am: <br>
 
 ## Skills 👨‍💻
 Best at: <p> [![My Skills](https://skillicons.dev/icons?i=cpp,c,py)](https://skillicons.dev) </p>
-Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev) </p>
+Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev) </p>
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+
 ## Projects
+
 
 ## How to reach me 📫
