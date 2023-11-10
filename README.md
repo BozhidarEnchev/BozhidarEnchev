@@ -13,5 +13,3 @@ Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](
 ## Projects
 
 
-## How to reach me 📫
-
