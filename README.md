@@ -11,8 +11,8 @@ Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
 ## Projects
-### Library managment system - https://github.com/bojkata1/Library-managment-system
-A console application for managment of a pesonal library with a text menu.
+### Library management system - https://github.com/bojkata1/Library-management-system
+A console application for management of a personal library with a text menu and commands.
 
 ### Course work - II semester - https://github.com/bojkata1/Kursova-rabota-II-semester
 Course work for my second semester. A program to process an array A[N, N], where are real numbers in the interval [-1000; 1000].
