@@ -14,5 +14,9 @@ Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](
 ### Library managment system - https://github.com/bojkata1/Library-managment-system
 A console application for managment of a pesonal library with a text menu.
 
+### Course work - II semester - https://github.com/bojkata1/Kursova-rabota-II-semester
+Course work for my second semester. A program to process an array A[N, N], where are real numbers in the interval [-1000; 1000].
+
+
 ### Course work - I semester - https://github.com/bojkata1/Kursova-rabota--I-semester
 Course work for my first semester. Console application with a text menu and separate functions for processing numerical data.
