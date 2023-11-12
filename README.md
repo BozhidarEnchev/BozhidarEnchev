@@ -11,7 +11,8 @@ Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
 ## Projects
-Library managment system
-https://github.com/bojkata1/Library-managment-system
+### Library managment system - https://github.com/bojkata1/Library-managment-system
+A console application for managment of a pesonal library with a text menu.
 
-
+### Course work - I semester - https://github.com/bojkata1/Kursova-rabota--I-semester
+Course work for my first semester. Console application with a text menu and separate functions for processing numerical data.
