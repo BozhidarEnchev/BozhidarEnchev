@@ -6,6 +6,11 @@ I am: <br>
  - interested in AI 🧠
 
 ## Skills 👨‍💻
-Best at: <p> [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,c,html,css,mysql,postgresql)](https://skillicons.dev) </p>
-Other skills: <p> [![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev) </p>
+### Backend
+**Languages** <p> [![My Skills](https://skillicons.dev/icons?i=py,cpp,c)](https://skillicons.dev) </p>
+
+### Frontend
+<p> [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,html,css)](https://skillicons.dev) </p>
+### Databases
+<p> [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev) </p>
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
