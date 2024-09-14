@@ -11,7 +11,7 @@ I am: <br>
 **Frameworks** <p> [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) </p>
 
 ### Frontend
-<p> [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,html,css)](https://skillicons.dev) </p>
+**Languages** <p> [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) </p>
+**Frameworks** <p> [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) </p>
 ### Databases
 <p> [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev) </p>
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
