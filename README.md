@@ -14,4 +14,4 @@ I am: <br>
 **Languages** <p> [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) </p>
 **Frameworks** <p> [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) </p>
 ### Databases
-<p> [![My Skills](https://skillicons.dev/icons?i=mysql,postresql)](https://skillicons.dev) </p>
+<p> [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev) </p>
