@@ -8,6 +8,7 @@ I am: <br>
 ## Skills 👨‍💻
 ### Backend
 **Languages** <p> [![My Skills](https://skillicons.dev/icons?i=py,cpp,c)](https://skillicons.dev) </p>
+**Frameworks** <p> [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) </p>
 
 ### Frontend
 <p> [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,html,css)](https://skillicons.dev) </p>
