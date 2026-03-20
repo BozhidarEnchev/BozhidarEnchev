@@ -4,7 +4,7 @@ Backend-focused Python developer with ~1 year of experience working with Odoo (E
 
 Currently building REST APIs with Django and developing skills in scalable backend system design.
 
----
+
 
 ## Skills 👨‍💻
 
@@ -16,7 +16,7 @@ Currently building REST APIs with Django and developing skills in scalable backe
 
 **Familiar with:** C/C++, JavaScript
 
----
+
 
 ## Current Focus 🚀
 
@@ -25,7 +25,7 @@ Currently building REST APIs with Django and developing skills in scalable backe
 * Exploring scalable backend architectures
 * Completing my final-year project focused on ML in autonomous vehicles
 
----
+
 
 ## Projects 🌱
 
